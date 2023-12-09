@@ -1,0 +1,22 @@
+{
+  "name": "movie_rating_app",
+  "version": "1.0.0",
+  "description": "Simple web app for rating movies",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tediyo/Simple-Movie-Rating-Web-App.git"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Tewodros Berhanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tediyo/Simple-Movie-Rating-Web-App/issues"
+  },
+  "homepage": "https://github.com/tediyo/Simple-Movie-Rating-Web-App#readme"
+}
